@@ -2545,15 +2545,15 @@
 /* Image */
 
 	.image {
-		border-radius: 0.375em;
+		/*border-radius: 0.375em;
 		border: 0;
 		display: inline-block;
-		position: relative;
+		position: relative;*/
 	}
 
 		.image img {
-			border-radius: 0.375em;
-			display: block;
+			/*border-radius: 0.375em;
+			display: block;*/
 		}
 
 		.image.left, .image.right {
